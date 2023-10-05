@@ -7,6 +7,7 @@
 #define pxPin 6 // pin for NeoPixels
 #define pxCount 14 // pixel count
 
+// taken from strandtest (example library)
 int           pixelCycle = 0;           // Pattern Pixel Cycle
 int           pixelQueue = 0;           // Pattern Pixel Queue
 int           pixelInterval = 50;       // Pixel Interval (ms)
